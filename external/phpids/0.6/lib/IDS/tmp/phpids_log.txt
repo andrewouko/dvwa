@@ -1,0 +1,1 @@
+"::1",2019-05-03T09:44:16+02:00,12,"sqli id lfi","REQUEST.username=1%20or%201%20%3D%201 POST.username=1%20or%201%20%3D%201","%2Fpersonal_repos%2FDVWA-master%2Flogin.php","::1"
